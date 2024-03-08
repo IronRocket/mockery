@@ -3,7 +3,6 @@
 # Introducing Mockery Encoder
 ![](img/terminal.PNG)
 # Usage
-![](img/sarcasmed.jpg)
 ### Did someone correct you when you said "I use linux"?    
 "Well its actually Gnu/Linux"   
 ```bash
