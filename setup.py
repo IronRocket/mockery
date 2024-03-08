@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mockery',
-    version='0.0.1',
+    version='0.0.2',
     description = 'Translates boring text into mockery',
     author = 'Titus Federwisch',
     keywords = 'cli, convert, standalone, mockery',
@@ -13,12 +13,12 @@ setup(
     },
     classifiers=[
         "Development Status :: 6 - Mature",
-        "Intended Audience :: Developers"
+        "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
-        "Topic :: Software Development :: Libraries",
+        "Topic :: Software Development :: Libraries"
     ],
     packages=find_packages(exclude=['img']),
     entry_points = {

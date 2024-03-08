@@ -1,0 +1,17 @@
+# Byte-compiled / optimized
+__pycache__/
+
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
