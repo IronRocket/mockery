@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='mockery',
+    name='mockery-translator',
     version='0.0.2',
     description = 'Translates boring text into mockery',
     author = 'Titus Federwisch',
